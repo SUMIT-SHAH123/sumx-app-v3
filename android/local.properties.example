@@ -1,0 +1,6 @@
+# Copy to local.properties (never commit it)
+sdk.dir=C\:\\Users\\YOU\\AppData\\Local\\Android\\Sdk
+# 10.0.2.2 = your computer, seen from the Android emulator. Use your server's https URL in production.
+API_BASE_URL=https://backend-1-cb45.onrender.com
+# OAuth client of type "Web application" (the SAME id as GOOGLE_WEB_CLIENT_ID on the backend)
+GOOGLE_WEB_CLIENT_ID=

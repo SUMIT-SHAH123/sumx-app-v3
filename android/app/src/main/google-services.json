@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "508939758166",
+    "project_id": "sum-x-2976c",
+    "storage_bucket": "sum-x-2976c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508939758166:android:5d6ecfdc3cfbde1098a9f7",
+        "android_client_info": {
+          "package_name": "com.sumx.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH1aGLPAhQKX93ElEshKlgWKjGu6Z_aXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

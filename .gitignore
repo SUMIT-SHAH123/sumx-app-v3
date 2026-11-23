@@ -1,0 +1,12 @@
+﻿# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Node / Backend
+node_modules/
+
+# Android / Gradle
+android/.gradle/
+android/local.properties
+android/**/build/
